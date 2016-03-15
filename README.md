@@ -4,4 +4,7 @@ This repo contains files as assignments to the 10 courses of the data specializa
 
 ## Data Scientist Tool 
 
+### GitHub
+### R package
+
 ## Getting and Cleaning Data 
